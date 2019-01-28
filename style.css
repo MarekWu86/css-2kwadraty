@@ -1,0 +1,21 @@
+div {
+    background-color: darkgoldenrod;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    float: left;
+}
+
+div.container1 {
+    border-radius: 150px;
+}
+div.container2 {
+    border-top-left-radius: 150px;
+}
+
+p {
+    text-align: center;
+    margin-top: 140px;
+    color: aqua;
+    font-size: 20px;
+}
